@@ -13,8 +13,8 @@ from telegram.ext import (
 from telegram.request import HTTPXRequest
 
 # Telegram bot token
-BOT_TOKEN = '7678984064:AAEjgukqYQVYyTWS54xEg8wL_rIl_0CAKBw'
-ADMIN_IDS = [1481056671]  # استبدل هذه المعرفات بمعرفات المسؤولين
+BOT_TOKEN = 'BOT_TOKEN'
+ADMIN_IDS = [id]  # استبدل هذه المعرفات بمعرفات المسؤولين
 
 DOWNLOAD_DIR = 'downloads'
 USERS_FILE = 'users.json'
