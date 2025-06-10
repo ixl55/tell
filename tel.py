@@ -1,3 +1,15 @@
+"""
+       I'm not in your network.
+       I *am* your network.
+       — signed: ixl55
+      _      _ _____ _____ 
+     (_)    | | ____| ____|
+      ___  _| | |__ | |__  
+     | \ \/ / |___ \|___ \ 
+     | |>  <| |___) |___) |
+     |_/_/\_\_|____/|____/ 
+                      
+"""
 import os
 import json
 from yt_dlp import YoutubeDL
