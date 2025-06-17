@@ -52,6 +52,12 @@ It helps users save media content from popular social networking sites such as:
 
 
 
+
+🚧 NOTE:
+The bot is currently running on a server with limited resources, so we ask you not to click on it or send a large number of requests in a short time.
+If the bot stops or does not respond immediately, please wait a little and do not try again immediately
+The bot is still under development and contains multiple technical problems that are gradually being solved.
+
 The source code is available here for those who want to modify and use it.
 A remote bot to transfer from social networking sites in full
 ---
