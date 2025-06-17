@@ -5,13 +5,9 @@ The media download bot from Social Media is a smart and free Telegram bot that a
 It helps users save media content from popular social networking sites such as:
 
 1-Twitter
-
 2-Instagram
-
 3-Facebook 
-
 4-TikTok
-
 5-Youtube
 
 # 🧰 main features
